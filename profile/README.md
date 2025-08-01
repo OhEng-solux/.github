@@ -33,10 +33,10 @@
 ### 🛠️ Tech Stack
 ![기술 스택](https://github.com/user-attachments/assets/83c652f0-229c-4132-81c0-9ffaa0c9dd9e)
 
-### ⭐ Key Features
-|    핵심 구현 기능      | 
+### ⭐ Play Screen
+|    플레이 화면      | 
 |----------------|
-|![구현기능 0]()| 
+|![구현기능 0](~~~)| 
 
 # 🔗 Resources
 - [DEV Address](https://github.com/OhEng-solux/developer)
