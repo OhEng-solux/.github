@@ -10,10 +10,10 @@
 |----------------|------------------------|
 | <a href="https://github.com/qkrtjdgusl">박성현</a>| 기획(시나리오 컨셉, 시스템 및 콘텐츠 기획, 사운드 총괄) |
 | <a href="https://github.com/hiyunD">허희윤</a>| 디자인(게임 디자인 컨셉 기획, UI/UX 설계, 인게임 일러스트) |
-| <a href="https://github.com/three-co1ors">박성하</a> | 개발(맵, 프롤로그, 미니게임, 추격전, BGM) |
+| <a href="https://github.com/three-co1ors">박성하</a> | 개발(총괄, 맵, 프롤로그, 미니게임, BGM) |
 | <a href="https://github.com/eisyxx">박지윤</a> | 개발(캐릭터, 인벤토리 및 아이템, 미니게임, 엔딩, 효과음) |
-| <a href="https://github.com/sssuhha">유수현</a>  | 개발(캐릭터, 시작화면, 추격전) |
-| <a href="https://github.com/leece03">이채은</a> | 개발(맵, 출퇴근 시퀀스, 세이브 시스템) |
+| <a href="https://github.com/sssuhha">유수현</a>  | 개발(맵, 캐릭터, 대화 시스템, 추격전) |
+| <a href="https://github.com/leece03">이채은</a> | 개발(맵, 시작화면, 출퇴근 시퀀스, 세이브 시스템) |
 
 <br>
 
