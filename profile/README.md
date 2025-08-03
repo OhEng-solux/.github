@@ -36,7 +36,7 @@
 ### ⭐ Play Screen
 |    플레이 화면      | 
 |----------------|
-|![Sequence 02](https://github.com/user-attachments/assets/bc13ef85-9832-4217-aae0-af5d47c7049d)| 
+|<img src="https://github.com/user-attachments/assets/897ec121-b2a0-4f97-aec1-21271e1a36af" width="800" height="400">|
 
 
 # 🔗 Resources
