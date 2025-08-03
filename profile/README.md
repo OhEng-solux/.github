@@ -36,7 +36,8 @@
 ### ⭐ Play Screen
 |    플레이 화면      | 
 |----------------|
-|![구현기능 0](~~~)| 
+|![Sequence 02](https://github.com/user-attachments/assets/bc13ef85-9832-4217-aae0-af5d47c7049d)| 
+
 
 # 🔗 Resources
 - [DEV Address](https://github.com/OhEng-solux/developer)
