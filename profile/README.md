@@ -4,6 +4,12 @@
 
 ![표지2](https://github.com/user-attachments/assets/58ce0242-a621-4eca-8f8e-b9e5facb1fe0)
 > 2025년 1학기 숙명여자대학교 프로그래밍 중앙동아리 SOLUX 오엥(ㅇ0ㅇ!) 팀
+>
+> 
+### ⭐ Play Screen
+|    플레이 화면      | 
+|----------------|
+|<img src="https://github.com/user-attachments/assets/897ec121-b2a0-4f97-aec1-21271e1a36af" width="800" height="400">|
 
 ### 🤗Our Team
 |    이름           | 역할         |
@@ -32,11 +38,6 @@
 
 ### 🛠️ Tech Stack
 ![기술 스택](https://github.com/user-attachments/assets/83c652f0-229c-4132-81c0-9ffaa0c9dd9e)
-
-### ⭐ Play Screen
-|    플레이 화면      | 
-|----------------|
-|<img src="https://github.com/user-attachments/assets/897ec121-b2a0-4f97-aec1-21271e1a36af" width="800" height="400">|
 
 
 # 🔗 Resources
